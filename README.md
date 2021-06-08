@@ -1,4 +1,4 @@
-![Java_Logo](assets/images/java_logo.png)
+![Java_Logo](assets/img/java_logo.png)
 
 # Lectures
 
