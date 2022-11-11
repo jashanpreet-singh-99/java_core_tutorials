@@ -10,4 +10,4 @@
 6. Strings and regex
 7. Classes and Objects
 
-8. Jenkins test
+8. Jenkins Connection and testing
